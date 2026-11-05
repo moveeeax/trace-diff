@@ -30,3 +30,7 @@ trace-diff --baseline traces/v1.42.json --candidate traces/v1.43.json --min-delt
 ## License
 
 MIT
+
+---
+
+Archived on 2026-11-05. The idea moved to [otel-trace-replay](https://github.com/moveeeax/otel-trace-replay/issues/2).
